@@ -1,0 +1,14 @@
+
+ 
+Software test, without Cidshow device:
+
+Copy  
+
+softTest.txt 
+
+to 
+python.exe  folder
+
+ ???
+
+C:\Users\WinUserName\AppData\Local\Programs\Python\Python38-32
